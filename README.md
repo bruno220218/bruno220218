@@ -1,0 +1,2 @@
+- Ola, sou Bruno
+- estou iniciando no mundo da programação.. por enquanto é só..
